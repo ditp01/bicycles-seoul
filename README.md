@@ -30,7 +30,6 @@ clearly and cleanly organised.
 
 ```
 ├── LICENSE            <- MIT
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
 │   ├── external       <- Data from the Seoul pollution dataset
